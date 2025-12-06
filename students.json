@@ -1,0 +1,22 @@
+{
+  "F25CE100": {
+    "name": "Eklavya",
+    "password": "Eklavya@123",
+    "test": 99,
+    "att": 46,
+    "attTotal": 50,
+    "hw": 8,
+    "hwTotal": 10,
+    "academic": 9.31
+  },
+  "F25CE103": {
+    "name": "Nikhil",
+    "password": "N ikhil@123",
+    "test": 1,
+    "att": 1,
+    "attTotal": 10,
+    "hw": 1,
+    "hwTotal": 10,
+    "academic": 1
+  }
+}
